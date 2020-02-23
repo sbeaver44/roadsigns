@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+    <color name="fhwa_white" r="251" g="255" b="237"/>
+    <color name="fhwa_black" r="51" g="51" b="51"/>
+    <color name="fhwa_red" r="196" g="0" b="39"/>
+    <color name="fhwa_orange" r="253" g="105" b="2"/>
+    <color name="fhwa_brown" r="96" g="51" b="27"/>
+    <color name="fhwa_yellow" r="255" g="181" b="0"/>
+    <color name="fhwa_orange_fluor" r="255" g="97" b="0"/>
+    <color name="fhwa_yellow_fluor" r="255" g="192" b="0"/>
+    <color name="fhwa_yelgrn_fluor" r="208" g="235" b="0"/>
+    <color name="fhwa_green_fluor" r="0" g="153" b="51"/>
+    <color name="fhwa_green" r="0" g="95" b="71"/>
+    <color name="fhwa_blue" r="0" g="67" b="114"/>
+    <color name="fhwa_cyan" r="114" g="184" b="240"/>
+    <color name="fhwa_purple" r="154" g="0" b="104"/>
+ </body>
