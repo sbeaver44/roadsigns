@@ -15,7 +15,7 @@ offset_x = 0      #default is to center the text horizontially.  If the center s
 offset_y = -12      #default is to center the text vertically.  If the center should be moved within the SCALED image, specify the pixels + or -
 fcol = (51,51,51)  #RGB tuple for the text color.  A good resource for official FHWA colors' RGB equivalents is http://vidthekid.info/misc/fhwacolors.html
 routelist = ["9","9A","9B","14","14A","224","414","990V"]
-#The routelist in line 14 is all the shields you want to create
+#The routelist in line 17 is all the shields you want to create
 use2dfor3dwith1 = True   #If True, when there is a 3 digit shield, but the route contains a 1, we'll use the 2-digit font, because 1 only takes up half the width.  PennDOT does this.  For example, PA 147 will still be in the D font like PA 45, whereas PA 225 will be in the C font.
 alwaysuseD = True  #Force use of D font
 alwaysuseC = False  #Force use of C font
